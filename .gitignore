@@ -1,0 +1,18 @@
+
+.env
+data/processed/*
+reports/*.log
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# power bi
+.pbi/
+*.pbix.bak
+powerbi/**/localSettings.json
+powerbi/**/cache.abf
+
+desktop.ini
+*.docx
